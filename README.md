@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rizwan</h1>
-<h3 align="center">I'm currently pursuing my BE CSE 3rd year</h3>
+<h3 align="center">I'm currently pursuing my BE CSE 4th year</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanishere&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanishere" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at **Github**
 
-- 💬 Ask me about **Devops & Cloud**
+- 💬 Ask me about **Devops, Cloud, and MERN Stack**
 
-- 📫 How to reach me **rizwantopper@gmail.com**
+- 📫 How to reach me **syedrizwanali993@gmail.com**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/rizwanishere**
 
